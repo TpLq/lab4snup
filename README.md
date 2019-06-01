@@ -1,3 +1,1 @@
-# geometry_3lab
-[![Build Status](https://travis-ci.org/Snuper/geometry_3lab.svg?branch=master)](https://travis-ci.org/Snuper/geometry_3lab)
-# lab4snup
+[![Build Status](https://travis-ci.org/TpLq/lab4snup.svg?branch=master)](https://travis-ci.org/TpLq/lab4snup)
